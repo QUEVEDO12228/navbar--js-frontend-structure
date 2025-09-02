@@ -5,26 +5,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home</title>
     <link rel="stylesheet" href="/frontend/public/css/main.css">
+
+    <script src="/frontend/public/js/Componentes/navbar.js" defer></script>
+    <script src="/frontend/public/js/Componentes/hero.js" defer></script>
+    <!-- <script src="/frontend/public/js/Componentes/card.js" defer></script> -->
+    <!-- Script para cargar todas las cards -->
+    <script type="module">
+        import {loadCards} from "/frontend/public/js/Componentes/card.js";
+        loadCards(".card-container");// Cargar las cards al cargar la página
+    </script>
+
 </head>
+
 <body>
-<header class="header"> 
-    <h1 class="navbar__title">
-        Emanuel Quevedo
-        <span class="navbar__subtitle">Rico programar</span>  
-    </h1>
+    <header  class="header"> 
+        <div class="navbar-container"></div> 
+    </header>
 
-    <div class="navbar-container"> 
-        <nav class="navbar"> 
-            <ul class="navbar__list">
-                <li class="navbar__item"><a href="index.html" class="navbar__link">Inicio</a></li>
-                <li class="navbar__item"><a href="Clientes.html" class="navbar__link">Clientes</a></li>
-                <li class="navbar__item"><a href="sobre mí.html" class="navbar__link">Sobre mí</a></li>
-                <li class="navbar__item"><a href="Contacto.html" class="navbar__link">Contacto</a></li>
+    <!-- Sección del hero -->
+    <section class="hero">
+        <div  class="hero-container"></div>
+    </section>
 
-            </ul>
-        </nav>
-    </div>
-    <div> Estoy en inicio </div>
-</header>
+    <div class="card-container"></div>
+         
+     <h1> Estoy en Inicio </h1> 
 </body>
 </html>

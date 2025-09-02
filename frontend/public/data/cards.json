@@ -1,0 +1,63 @@
+[
+    {
+        "id":"diseño web",
+        "title":"Diseño Web",
+        "icon1":"../assets/icons/icon1.svg",
+        "icon2":"../assets/icons/icon2.svg",
+        "description":"Volvemos tus ideas realidad<br>el mejor deseño para tu sitio web"
+    },
+
+    {
+        "id":"desarrollo-movil",
+        "title":"Desarrollo Movil",
+        "icon1":"../assets/icons/icon1.svg",
+        "icon2":"../assets/icons/icon2.svg",
+        "description":"Volvemos tus ideas realidad<br>Para android y iOS"
+    },
+
+    {
+        "id":"base-datos",
+        "title":"Base de Datos",
+        "icon1":"../assets/icons/icon1.svg",
+        "icon2":"../assets/icons/icon2.svg",
+        "description":"Volvemos tus ideas realidad<br>bases de datos seguras y escalables"
+    },
+    {
+        "id":"diseño web",
+        "title":"Diseño Web",
+        "icon1":"../assets/icons/icon1.svg",
+        "icon2":"../assets/icons/icon2.svg",
+        "description":"Volvemos tus ideas realidad<br>el mejor deseño para tu sitio web"
+    },
+
+    {
+        "id":"desarrollo-movil",
+        "title":"Desarrollo Movil",
+        "icon1":"../assets/icons/icon1.svg",
+        "icon2":"../assets/icons/icon2.svg",
+        "description":"Volvemos tus ideas realidad<br>Para android y iOS"
+    },
+
+    {
+        "id":"base-datos",
+        "title":"Base de Datos",
+        "icon1":"../assets/icons/icon1.svg",
+        "icon2":"../assets/icons/icon2.svg",
+        "description":"Volvemos tus ideas realidad<br>bases de datos seguras y escalables"
+    },{
+        "id":"diseño web",
+        "title":"Diseño Web",
+        "icon1":"../assets/icons/icon1.svg",
+        "icon2":"../assets/icons/icon2.svg",
+        "description":"Volvemos tus ideas realidad<br>el mejor deseño para tu sitio web"
+    },
+
+    {
+        "id":"desarrollo-movil",
+        "title":"Desarrollo Movil",
+        "icon1":"../assets/icons/icon1.svg",
+        "icon2":"../assets/icons/icon2.svg",
+        "description":"Volvemos tus ideas realidad<br>Para android y iOS"
+    }
+
+]
